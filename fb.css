@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(fbbg1.jpg);
+    background-size: cover;
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    background: linear-gradient(#48649F ,#385998);
+    border-bottom: 1px solid #253a69;
+}
+.logo{
+    
+    height: 63px;
+    width: 199px;
+    left: 13%;
+    padding-top: 15px; 
+}
+.login{
+  
+    align-items: center;
+   text-align: center;
+    height: 50vh;
+    width: 40%;
+    background: white;
+    color: black;
+ 
+   
+}
+.heading{
+ 
+ color: darkblue;
+    font-family: cursive;
+    font-size: XX-large;
+   
+}
+.btn1 , .btn2{
+    background-color: orange;
+    font-size: medium;
+}
